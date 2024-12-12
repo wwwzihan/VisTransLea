@@ -1,5 +1,5 @@
 ## 代码使用简介
-
+0. 来源自up主霹雳吧啦Wz，在代码中添加了自己的注释，仅供个人学习使用。
 1. 下载好数据集，代码中默认使用的是花分类数据集，下载地址: [https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz),
 如果下载不了的话可以通过百度云链接下载: https://pan.baidu.com/s/1QLCTA4sXnQAw_yvxPj9szg 提取码:58p0
 2. 在`train.py`脚本中将`--data-path`设置成解压后的`flower_photos`文件夹绝对路径
